@@ -1,7 +1,3 @@
-Perfeito. Aqui está um `README.md` profissional e bem estruturado para o seu projeto:
-
----
-
 # 🔐 Cripto Wallet Password Generator
 
 A simple React Native app built with Expo that generates strong, secure, random passwords, inspired by cryptocurrency wallets. You can easily copy the generated password to your clipboard with a single tap.
