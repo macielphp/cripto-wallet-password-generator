@@ -6,6 +6,14 @@ A simple React Native app built with Expo that generates strong, secure, random 
 
 ---
 
+## Certificate
+
+Project inspired and guided by the teacher <a href="https://www.linkedin.com/in/felipeaguiar-exe/">Felipe Aguiar</a> and provided by the company<a href='https://www.linkedin.com/school/dio-makethechange/'>Dio.</a>
+
+![alt text](image-1.png)
+
+---
+
 ## 🚀 Features
 
 * 🔑 Generates highly secure, random passwords
